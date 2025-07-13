@@ -53,6 +53,7 @@ The project is designed as a foundation for future natural language processing (
 ---
 
 ## 📂 Project Structure (planned)
+```
 SimpleRNN-Embedding/
 ├── src/
 │ ├── model/ # Model classes (SimpleRNN, LSTM, etc.)
@@ -62,7 +63,7 @@ SimpleRNN-Embedding/
 ├── resources/ # Training data, saved models
 ├── README.md
 └── pom.xml # (using Maven)
-
+```
 ---
 
 ## 🤝 Contributing
